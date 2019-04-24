@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+document:
+  thread:
+    list-of-ports: 30100, 31100, 32100, 33100, 34100, 35100, 36100, 37100, 38100, 39100 
+    timeout: 4
+  queue:
+    capacity: 50
