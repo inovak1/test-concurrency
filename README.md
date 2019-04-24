@@ -101,8 +101,7 @@ docker run -d -p 8080:8080 --name test-concurrency test-concurrency
 ## Built With
 
 * [Gradle](https://gradle.org/) - Dependency Management and build tool
-
-## Running docker
+* [Docker](https://www.docker.com/) - Docker container build & run tool
 
 ## Authors
 
